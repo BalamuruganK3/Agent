@@ -1,0 +1,6 @@
+livekit-agents>=0.10.0
+python-dotenv
+pyyaml
+crewai
+langchain-groq
+groq
